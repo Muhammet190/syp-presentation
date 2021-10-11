@@ -1,0 +1,33 @@
+= Device Manager
+Batu Patz 1.18, 2021-09-20
+:customcss: css/style.css
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+:revealjs_parallaxBackgroundImage: images/background-newdrone.jpeg
+:revealjs_parallaxBackgroundSize: cover
+
+== Ausgangssituation
+
+
+=== Ist Zustand
+
+
+=== Ziel
+
+
+=== Aufgabenstellung
+
+=== Ergebnis
+
+
+== Use-Cases
+
+
+== Jetztiger Stand
+
+== Nächste Schritte
+
+=== Weitere Schritte
+
